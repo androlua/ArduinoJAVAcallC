@@ -1,4 +1,4 @@
-JNI编程读取Arduino的串号数据
+JNI编程读取Arduino的串口数据
 JNI编程自行查找
 参考文档
 http://todbot.com/arduino/host/arduino-serial/arduino-serial.c
